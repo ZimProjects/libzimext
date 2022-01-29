@@ -8,6 +8,7 @@ ToDo
 - [ ] additional compression algorithms support (lz4, Brotli, kanzi at least)
 - [ ]  use faster third-party string libraries
 - [ ]  use faster third-party container libraries
+- [ ]  remove ICU dependency
 - [ ]  switch to C++17
 
 License
